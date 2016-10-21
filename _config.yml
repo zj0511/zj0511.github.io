@@ -1,0 +1,16 @@
+baseurl: /zj0511.github.io
+encoding: utf-8
+title: 山有木兮木有枝
+description: 实习生笔记
+signoff: 艾小木Mu
+highlighter: rouge
+permalink: pretty
+links:
+  - name: About
+    url: /about
+  - name: Blog
+    url: /zj0511.github.io
+    external: true
+  - name: GitHub
+    url: http://github.com/zj0511
+    external: true
